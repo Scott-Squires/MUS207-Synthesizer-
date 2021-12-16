@@ -38,4 +38,4 @@ I'm really sorry about all that. If you actually made this work, give me a call 
 
 There is also a handy function called explicitToRatioWave(ExplicitWave), and you can give it an ExplicitWave and it will return a RatioWave.
 
-Anyway, hopefully this project gets some love in the future, but if you manage to have fun trying a couple things, I'm really glad.
+Anyway, hopefully I give this project some more love in the future, but if you manage to have fun trying a couple things, I'm really glad.
