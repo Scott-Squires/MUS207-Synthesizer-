@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\scott\source\repos\Synthinator3000\Synthinator3000\compoundWave.cpp(79,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\scott\source\repos\Synthinator3000\Synthinator3000\ratioWave.cpp(48,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\scott\source\repos\Synthinator3000\Synthinator3000\basicWave.cpp(27): warning C4715: 'sgn<double>': not all control paths return a value
+C:\Users\scott\source\repos\Synthinator3000\Synthinator3000\basicWave.cpp(98): warning C4715: 'BasicWave::getSample': not all control paths return a value
+  Synthinator3000.vcxproj -> C:\Users\scott\source\repos\Synthinator3000\Debug\Synthinator3000.exe
